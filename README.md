@@ -1,8 +1,6 @@
 # DeltaGAN-Few-Shot-Image-Generation
 
 
-# F2GAN: Few-Shot Image Generation
-
 Code for our paper *"DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta"*.
 
 Created by [Yan Hong](https://github.com/hy-zpg),  [Li Niu\*](https://github.com/ustcnewly), Jianfu Zhang, Liqing Zhang.
