@@ -348,7 +348,7 @@ To view more clear results, please click the belowing tables.
 
 #### GAN metrics of Generated Images
 <div align="center">
-  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_1.jpg' align="center" width=800>
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_1.png' align="center" width=800>
 </div>
 
 
@@ -358,7 +358,7 @@ To view more clear results, please click the belowing tables.
 #### Few-shot Image Classification
 
 <div align="center">
-  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_2.jpg' align="center" width=800>
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_2.png' align="center" width=800>
 </div>
 
 
