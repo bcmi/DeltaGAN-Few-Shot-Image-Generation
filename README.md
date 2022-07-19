@@ -211,15 +211,15 @@ python train_dagan_with_matchingclassifier.py --dataset animals --image_width 96
 ### Trained Model
 
 
-* EMNIST: [emnist_trained model](https://pan.baidu.com/s/1OAAr7SE4rBFmqTLjP0Gv4w), extracted code: usgq.
+* EMNIST: [emnist_trained model](https://pan.baidu.com/s/1p6mlQUQN4O9kyT8Uozcu3Q), extracted code: 1234.
 
-* VGGFace: [vggface_trained model](https://pan.baidu.com/s/1kl7xBu-2paKcifgluv01KA), extracted code: ece6.
+* VGGFace: [vggface_trained model](https://pan.baidu.com/s/1sNVXCSofD8GIVI6GIQPS2A), extracted code: 1234.
 
-* Flowers: [flowers_trained model](https://pan.baidu.com/s/1csEXu6UT0qpj8qW5G9Y5ew), extracted code: xfei.
+* Flowers: [flowers_trained model](https://pan.baidu.com/s/1kB7hVLT59-Va31zsgGOnbA), extracted code: 1234.
 
-* Animal Faces: [animals_trained model](https://pan.baidu.com/s/1ro1XljphBYRQaXoj4P6OhQ), extracted code: fdb2.
+* Animal Faces: [animals_trained model](https://pan.baidu.com/s/10rrMdU2nUGMImVnm7oHH0w), extracted code: 1234.
 
-* NAbirds: [nabirds_trained model](https://pan.baidu.com/s/1ro1XljphBYRQaXoj4P6OhQ), extracted code: fdb2.
+* NAbirds: [nabirds_trained model](https://pan.baidu.com/s/1Y08dBNMWYvH_ZCYspcncyw), extracted code: 1234.
 
 
 ### Evaluation from three aspects including GAN metrics, low-data classification, and few-shot classification.
