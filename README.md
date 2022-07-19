@@ -33,7 +33,11 @@ Few-shot image generation aims at generating images for a new category with only
 
 ## Visualization
 <div align="center">
-  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/framework_combine.png' align="center" width=800>
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/comparison_main.png' align="center" width=800>
+</div>
+
+<div align="center">
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/combo_less.png' align="center" width=800>
 </div>
 
 [//]: # (More generated reuslts to view [here]&#40;https://arxiv.org/pdf/2008.01999.pdf&#41;)
