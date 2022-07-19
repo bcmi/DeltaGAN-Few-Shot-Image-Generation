@@ -32,7 +32,9 @@ Few-shot image generation aims at generating images for a new category with only
 
 
 ## Visualization
-![](figures/combo.jpg)
+<div align="center">
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/framework_combine.png' align="center" width=800>
+</div>
 
 [//]: # (More generated reuslts to view [here]&#40;https://arxiv.org/pdf/2008.01999.pdf&#41;)
 
@@ -94,6 +96,12 @@ Few-shot image generation aims at generating images for a new category with only
   Categories/Samples: 555/ 48527
 
   Split: 444 seen classes, 111 unseen classes
+  
+- **Foods**
+
+  Categories/Samples: 256/ 31395
+
+  Split: 224 seen classes, 32 unseen classes
 
 ### Baselines
 
