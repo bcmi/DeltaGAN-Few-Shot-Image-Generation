@@ -121,7 +121,10 @@ Few-shot image generation aims at generating images for a new category with only
 * Data Augmentation Generative Adversarial Networks [paper](https://arxiv.org/pdf/1711.04340)  [code](https://github.com/AntreasAntoniou/DAGAN)
 
 * F2GAN: Fusing-and-Filling GAN for Few-shot Image Generation [paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413561) [code](https://github.com/bcmi/F2GAN-Few-Shot-Image-Generation)
+
 * Matchinggan: Matching-Based Few-Shot Image Generation[paper](https://ieeexplore.ieee.org/abstract/document/9102917/) [code](https://github.com/bcmi/MatchingGAN-Few-Shot-Image-Generation)
+
+* LoFGAN: Fusing Local Representations for Few-shot Image Generation[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_LoFGAN_Fusing_Local_Representations_for_Few-Shot_Image_Generation_ICCV_2021_paper.pdf)[code](https://github.com/edward3862/LoFGAN-pytorch)
 
 #### Few-shot Image Classification
 * Matching Networks for One Shot Learning [paper](https://arxiv.org/pdf/1606.04080.pdf)  [code](https://github.com/AntreasAntoniou/MatchingNetworks)
@@ -135,6 +138,8 @@ Few-shot image generation aims at generating images for a new category with only
 * Meta-Transfer Learning for Few-Shot Learning [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)  [code](https://github.com/y2l/meta-transfer-learning-tensorflow)
 
 * Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation [paper](https://arxiv.org/pdf/2001.08735.pdf)  [code](https://github.com/y2l/meta-transfer-learning-tensorflow)
+
+* Delta-encoder: an effective sample synthesis methodfor few-shot object recognitio [paper](https://proceedings.neurips.cc/paper/2018/file/1714726c817af50457d810aae9d27a2e-Paper.pdf)[code](https://github.com/EliSchwartz/DeltaEncoder)
 
 
 
@@ -342,25 +347,21 @@ setting the '--selected_classes' as N.
 To view more clear results, please click the belowing tables.
 
 #### GAN metrics of Generated Images
+<div align="center">
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_1.jpg' align="center" width=800>
+</div>
 
-![](figures/metric.jpg)
-
-
-#### Low-data Image Classification
-
-![](figures/lowdata.jpg)
 
 
 
 
 #### Few-shot Image Classification
 
-![](figures/fewshot.jpg)
+<div align="center">
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/blob/main/figures/table_2.jpg' align="center" width=800>
+</div>
 
 
-
-## Poster Presentation
-![](figures/F2GAN_ACMMM_poster.jpg)
 
 
 
