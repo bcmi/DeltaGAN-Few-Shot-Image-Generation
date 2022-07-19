@@ -25,7 +25,7 @@ If you find our work useful in your research, please consider citing:
 
 Few-shot image generation aims at generating images for a new category with only a few images, which can make fast adaptation to a new category especially for those newly emerging categories or long-tail categories. Few-shot image generation can be used for data augmentation, which benefits a wide range of downstream category-aware tasks like few-shot classification.Several state-of-the-art works have yielded impressive results, but the diversity is still limited. In this work, we propose a novel Delta Generative Adversarial Network (DeltaGAN), which consists of a reconstruction subnetwork and a generation subnetwork. The reconstruction subnetwork captures intra-category transformation, \emph{i.e.}, delta, between same-category pairs. The generation subnetwork generates sample-specific delta for an input image, which is combined with this input image to generate a new image within the same category. Besides, an adversarial delta matching loss is designed to link the above two subnetworks together. Extensive experiments on six benchmark datasets demonstrate the effectiveness of our proposed method.
 <div align="center">
-  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/main/figures/framework_combine.png' align="center" width=800>
+  <img src='https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation/figures/framework_combine.png' align="center" width=800>
 </div>
 
 
