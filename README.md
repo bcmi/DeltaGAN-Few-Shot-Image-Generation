@@ -1,7 +1,7 @@
 # DeltaGAN-Few-Shot-Image-Generation
 
 
-Code for our paper *"DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta"*.
+Code for our paper *"DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta"*. [[pdf]](https://arxiv.org/pdf/2009.08753.pdf)
 
 Created by [Yan Hong](https://github.com/hy-zpg),  [Li Niu\*](https://github.com/ustcnewly), Jianfu Zhang, Liqing Zhang.
 
